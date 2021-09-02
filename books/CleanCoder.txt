@@ -1,0 +1,23 @@
+Chapter 1:
+- Around 20h per week you should spend on fun things that reinforce your programming passion
+- Design patterns are must have in order to be better programmer
+- To improve yourself learn things that are outside of your comfort zone
+
+Chapter 2:
+- Saying NO is better than lying to customer/PO/FL
+
+Chapter 3:
+- Don't say YES to everything that is asked from you, but work hard and try to squeeze in possible YES. Saying yes is equals to promise
+
+Chapter 6:
+- Katas (code signal and similar sites) are required in order to stay in shape
+
+Chapter 8:
+- Goal of professional developer is that QA should find nothing when testing your code (as often as possible)
+
+Chapter 9:
+- Professional developer manage their time wisely and use their "focus-mana" carefully. Don't write any code when "focus-mana" is low
+- Recharge mana with (walk, talking to colleague, looking out through window...)
+
+Chapter 11:
+- For handling a pressure first of all you should avoid it when you can. And when you can't you should stay calm and follow your disciplines
